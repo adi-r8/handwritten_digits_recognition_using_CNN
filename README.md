@@ -1,7 +1,7 @@
 # handwritten_digits_recognition_using_CNN
 
 
-### TENSORFLOW-1_Handwritten_digit_recognition USING TENSORFLOW 1
+### TENSORFLOW-1_Finger_to_digit_recognition USING TENSORFLOW 1
 on local dataset
 
 
